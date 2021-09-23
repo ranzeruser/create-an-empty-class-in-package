@@ -1,4 +1,4 @@
 package my.cute;
 
-public class cat {
+public class Cat {
 }
